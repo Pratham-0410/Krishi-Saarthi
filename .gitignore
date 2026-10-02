@@ -1,0 +1,11 @@
+# Large local data and generated ML artifacts
+datasets/
+models/
+results/
+
+# Python and operating-system files
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.cache/
